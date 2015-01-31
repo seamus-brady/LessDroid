@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- test string -->
+    <string name="hello_world">Hello world!</string>
+
+    <!-- app titles and version info -->
+    <string name="app_name">LessDroid Premium</string>
+    <string name="company_name">Corvideon Ltd</string>
+    <string name="copyright">(c) 2013</string>
+    <string name="website">http://www.lessdroid.com</string>
+    <string name="home_title">Home</string>
+    <string name="apps_title">Apps</string>
+    <string name="title_activity_fave_apps">FaveAppsActivity</string>
+    <string name="action_settings">Settings</string>  
+    <string name="title_settings">LessDroid Settings</string>  
+    <string name="title_help">LessDroid Help</string>  
+    <string name="url_help">http://www.lessdroid.com/lessdroid-premium-help/</string>  
+    
+
+    <!-- tab titles -->
+    <string name="home_tab">Home</string>
+    <string name="faves_tab">Faves</string>
+    <string name="apps_tab">Apps</string>
+
+    <!-- menu -->
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_add_fave">Set favorite apps</string>
+    <string name="menu_lessdroid_settings">LessDroid settings</string>
+    <string name="menu_refresh">Refresh apps</string>
+    <string name="menu_android_settings">Android settings</string>
+    <string name="menu_about">About</string>
+
+    <!-- home tab buttons -->
+    <string name="button_phone">PHONE</string>
+    <string name="button_contacts">CONTACTS</string>
+    <string name="button_messaging">MESSAGING</string>
+    <string name="button_camera">CAMERA</string>
+    <string name="button_gallery">GALLERY</string>
+
+    <!-- home app names -->
+    <string name="app_phone">Phone</string>
+    <string name="app_contacts">Contacts</string>
+    <string name="app_messaging">Messaging</string>
+    <string name="app_camera">Camera</string>
+    <string name="app_gallery">Gallery</string>
+
+    <!-- ui strings -->
+    <string name="device_settings">Android Device Settings</string>
+    <string name="settings_title">LessDroid Settings</string>
+    <string name="change_title">Change LessDroid Title</string>
+    <string name="title_activity_choose_apps">Choose your favourite apps</string>
+
+    <!-- interface strings -->
+    <string name="app_not_launched">App cannot be launched</string>
+    <string name="error_loading_data">Error - unable to load app data</string>
+    <string name="first_run_message">Loading apps...</string>
+    <string name="start_up_message">Loading apps...</string>
+    <string name="refresh_apps">Refresh Apps</string>
+    <string name="refresh_apps_question">Do you want to refresh the app listings? This will refresh all app listing and empty your favourites.</string>
+
+    <!-- default apps names -->
+    <string name="app_phone">Phone</string>
+    <string name="app_messaging">Messaging</string>
+    <string name="app_contacts">Contacts</string>
+    <string name="app_camera">Camera</string>
+    <string name="app_gallery">Gallery</string>
+
+    <!-- Start screen -->
+    <string name="title_activity_start">Welcome to LessDroid Home</string>
+    <string name="start_button">Start LessDroid Home</string>
+    <string name="dummy_content">Welcome to LessDroid Home</string>
+    <string name="title_activity_less_droid_pref">LessDroidPrefActivity</string>
+    
+    <!--  prefs strings -->
+    <string name="pref_app_title">Set Title</string>
+    <string name="pref_app_title_summary">Change the title of LessDroid Home</string>
+    <string name="pref_app_rotation">Disable screen rotation</string>
+    <string name="pref_app_rotation_summary">Keep LessDroid in portrait mode</string>
+
+</resources>

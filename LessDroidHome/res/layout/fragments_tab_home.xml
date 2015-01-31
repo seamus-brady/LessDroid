@@ -1,0 +1,54 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout  android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/phone_button"
+            style="@style/button_normal"
+            android:background="@drawable/blue_button"
+            android:drawableLeft="@drawable/ic_action_phone_start"
+            android:drawablePadding="15dip"
+            android:gravity="left|center_vertical"
+            android:text="@string/button_phone" />
+
+        <Button
+            android:id="@+id/contact_button"
+            style="@style/button_normal"
+            android:background="@drawable/blue_button"
+            android:drawableLeft="@drawable/ic_action_users"
+            android:drawablePadding="15dip"
+            android:gravity="left|center_vertical"
+            android:text="@string/button_contacts" />
+
+        <Button
+            android:id="@+id/messaging_button"
+            style="@style/button_normal"
+            android:background="@drawable/blue_button"
+            android:drawableLeft="@drawable/ic_action_dialog"
+            android:drawablePadding="15dip"
+            android:gravity="left|center_vertical"
+            android:text="@string/button_messaging" />
+
+        <Button
+            android:id="@+id/camera_button"
+            style="@style/button_normal"
+            android:background="@drawable/blue_button"
+            android:drawableLeft="@drawable/ic_action_camera"
+            android:drawablePadding="15dip"
+            android:gravity="left|center_vertical"
+            android:text="@string/button_camera" />
+
+        <Button
+            android:id="@+id/gallery_button"
+            style="@style/button_normal"
+            android:background="@drawable/blue_button"
+            android:drawableLeft="@drawable/ic_action_picture"
+            android:drawablePadding="15dip"
+            android:gravity="left|center_vertical"
+            android:text="@string/button_gallery" />
+    </LinearLayout>
+
+</ScrollView>

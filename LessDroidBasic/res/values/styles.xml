@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="@style/Theme.Sherlock.Light" />
+
+    <style name="home_button">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">55dip</item>
+        <item name="android:textColor">@color/button_text_color</item>
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">@color/button_shadow_color</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">4</item>
+    </style>
+
+    <style name="button_top" parent="home_button">
+        <item name="android:layout_marginTop">30dip</item>
+    </style>
+
+    <style name="button_normal" parent="home_button">
+        <item name="android:layout_marginTop">12dip</item>
+    </style>
+
+    <style name="button_refresh" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">32dip</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:bottomLeftRadius">0dp</item>
+        <item name="android:bottomRightRadius">0dp</item>
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+
+    <style name="ButtonBarButton" />
+
+</resources>

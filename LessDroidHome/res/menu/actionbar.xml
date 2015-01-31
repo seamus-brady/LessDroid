@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/settings_button"
+        android:icon="@drawable/ic_action_gear"
+        android:showAsAction="always"
+        android:title="@string/menu_settings"/>
+    
+    <item
+        android:id="@+id/help_button"
+        android:icon="@drawable/ic_action_help"
+        android:showAsAction="always"
+        android:title="@string/menu_help"/>
+    
+    <item
+        android:id="@+id/add_fave_button"
+        android:showAsAction="never"
+        android:title="@string/menu_add_fave"/>
+    
+    <item
+        android:id="@+id/change_lessdroid_settings"
+        android:showAsAction="never"
+        android:title="@string/menu_lessdroid_settings"/>
+    
+    <item
+        android:id="@+id/android_settings_button"
+        android:showAsAction="never"
+        android:title="@string/menu_android_settings"/> 
+
+    <item
+        android:id="@+id/refresh_button"
+        android:showAsAction="never"
+        android:title="@string/menu_refresh"/>
+   
+     <item
+        android:id="@+id/about_button"
+        android:showAsAction="never"
+        android:title="@string/menu_about"/> 
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<PreferenceCategory android:title="General">
+		<CheckBoxPreference  
+			android:summary="@string/pref_app_rotation_summary"
+			android:title="@string/pref_app_rotation"
+			android:defaultValue="true"     
+			android:key="LessDroidHomeRotationPref" /> 
+	</PreferenceCategory>
+
+</PreferenceScreen>
