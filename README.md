@@ -6,11 +6,8 @@ You can download LessDroid for your Android phone at http://lessdroid.com/
 
 ## License
 
-This software is licensed under the Apache 2 license, quoted below.
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License. You may obtain a copy of
-the License at
+This software is licensed under the Apache 2 license.
+You may obtain a copy of the License at
 
     http://www.apache.org/licenses/LICENSE-2.0
 
