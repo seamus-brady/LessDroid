@@ -4,6 +4,8 @@ Three simple tabs and all your favourite apps in easy to read alphabetic order.
 
 You can download LessDroid for your Android phone at http://lessdroid.com/
 
+## License
+
 This software is licensed under the Apache 2 license, quoted below.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not
